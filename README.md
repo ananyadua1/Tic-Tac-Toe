@@ -1,4 +1,4 @@
-#Rock Paper Scissors Game (Java)
+Rock Paper Scissors Game (Java)
 Overview
 
 This is a simple console-based Rock Paper Scissors game implemented in Java.
